@@ -4,7 +4,7 @@
 
 💻 Wordpress Developer in training 👩🏼‍💻
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Flutter
 
 👀 Love 👩‍💻,☀️,🌍,🪴, 📷, and so much more...
 
